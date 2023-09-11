@@ -28,7 +28,7 @@ A stylish and themed stopwatch app with a Star Wars-inspired design. This simple
 
 2.Use the "Start," "Stop," and "Reset" buttons to control the stopwatch.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
@@ -39,8 +39,8 @@ Create a pull request on the main repository's branch.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 Star Wars fans for the inspiration.
 
-##Author
+## Author
 R V G NIKHIL SARMA
