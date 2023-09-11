@@ -22,7 +22,7 @@ A stylish and themed stopwatch app with a Star Wars-inspired design. This simple
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/star-wars-stopwatch-app.git
+   git clone https://github.com/Nikhil-Sarma076/StopWatch.git
 
 1.Open the index.html file in your web browser.
 
